@@ -1,0 +1,17 @@
+.split-container {
+  display: flex;
+}
+
+.personDetail {
+  flex: 1;
+  padding: 10px;
+}
+
+.invoiceCardList {
+  flex: 1;
+  padding: 40px;
+}
+.card {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}

@@ -1,0 +1,15 @@
+.tdaction {
+    width:70px;
+}
+.tdnumber {
+    width: 35px;
+}
+.tdstatisticsvalue {
+    width: 250px;
+}
+.tdprice{
+    width: 120px;
+}
+.tdstatisticsname {
+    width: auto;
+}
